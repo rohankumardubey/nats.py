@@ -58,7 +58,7 @@ from .subscription import (
 )
 from .transport import Transport, TcpTransport, WebSocketTransport
 
-__version__ = '2.2.0'
+__version__ = '2.2.1'
 __lang__ = 'python3'
 _logger = logging.getLogger(__name__)
 PROTOCOL = 1
